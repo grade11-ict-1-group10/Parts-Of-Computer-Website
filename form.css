@@ -1,0 +1,40 @@
+#main{
+    width: 40%;
+    height: 600px;
+    border: 1px solid gray;
+    margin: 0 auto;
+    padding: 10px;
+}
+table{
+    width: 100%;
+}
+th{
+    font-size: 30px;
+}
+label{
+    font-size: 20px;
+}
+input{
+    padding: 5px;
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+select{
+    padding: 7px;
+    width: 100%;
+}
+#submit{
+    padding: 10px;
+
+}
+.container{
+    position: relative;
+    left: 5%;
+    font-size: 20px;
+}
+ul{
+    position: relative;
+    left: 25%;
+}
+
